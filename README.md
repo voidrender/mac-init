@@ -26,3 +26,10 @@ Simpholders|`brew cask install simpholders`|Quick access to the filesystem on yo
 Skitch|`brew cask install skitch`|Better screengrabs, powered by Evernote.
 SourceTree|`brew cask install sourcetree`|My favorite Git GUI.
 Spotify|`brew cask install spotify`|:notes::notes::notes:
+
+## Formulae
+Run `formulae.sh` to install useful command-line utilities.
+
+Name|Command|Description
+---|---|---
+rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
