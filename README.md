@@ -45,5 +45,11 @@ cocoapods|`gem install cocoapods`|Package manager for iOS projects. You should p
 fastlane|`gem install fastlane`|Automate all of the nasties.
 xcpretty|`gem install xcpretty`|:sparkles:Prettier xcodebuild output.:sparkles:
 
+## Misc
+
+Name|Command|Description
+---|---|---
+[alcatraz](http://alcatraz.io)|<code>curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh &#124; sh</code>|Package manager for Xcode plugins.
+
 ## Missing Something?
 Feel free to submit a pull request!
