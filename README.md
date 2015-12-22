@@ -13,7 +13,7 @@ Name|Description
 ## Casks
 Run `casks.sh` to install a bunch of useful apps, or pick them one at a time from the below table.
 
-name|command|description
+Name|Command|Description
 ---|---|---
 Atom|`brew cask install atom`|Emacs or vim? **Atom.** *(And sometimes vim.)*
 Chrome|`brew cask install google-chrome`|Google's web browser.
@@ -24,4 +24,5 @@ Gifrocket|`brew cask install gifrocket`|Fast gif creation. :rocket:
 Google Drive|`brew cast install google-drive`|Sync files to and from Google Drive.
 Simpholders|`brew cask install simpholders`|Quick access to the filesystem on your iOS simulators.
 Skitch|`brew cask install skitch`|Better screengrabs, powered by Evernote.
+SourceTree|`brew cask install sourcetree`|My favorite Git GUI.
 Spotify|`brew cask install spotify`|:notes::notes::notes:
