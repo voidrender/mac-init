@@ -33,3 +33,6 @@ Run `formulae.sh` to install useful command-line utilities.
 Name|Command|Description
 ---|---|---
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
+
+## Missing Something?
+Feel free to submit a pull request!
