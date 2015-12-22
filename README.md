@@ -33,6 +33,17 @@ Run `formulae.sh` to install useful command-line utilities.
 Name|Command|Description
 ---|---|---
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
+xctool|`brew install xctool`|
+
+## Gems
+
+Name|Command|Description
+---|---|---
+alcove|`gem install alcove`|Painless code coverage reporting for Objective-C projects.
+bundler|`gem install bundler`|Escape from gem dependency hell. I use bundler to groom my iOS project's gem dependencies and ensure consistent versions are used across dev and build environments.
+cocoapods|`gem install cocoapods`|Package manager for iOS projects. You should probably specify this in a Gemfile in your project directory so you can enforce a specific version number.
+fastlane|`gem install fastlane`|Automate all of the nasties.
+xcpretty|`gem install xcpretty`|:sparkles:Prettier xcodebuild output.:sparkles:
 
 ## Missing Something?
 Feel free to submit a pull request!
