@@ -8,6 +8,7 @@ A collection of random configuration scripts to help with setting up a new Mac. 
 
 Name|Description
 ---|---
+[Realm Browser](https://itunes.apple.com/us/app/realm-browser/id1007457278?mt=12)|A GUI for interacting with [Realm](https://realm.io) database files.
 [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12)|A better digital color meter.
 
 ## Casks
