@@ -51,6 +51,8 @@ xcpretty|`gem install xcpretty`|:sparkles:Prettier xcodebuild output.:sparkles:
 Name|Command|Description
 ---|---|---
 [alcatraz](http://alcatraz.io)|<code>curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh &#124; sh</code>|Package manager for Xcode plugins.
+[zenburn-terminal](https://github.com/bdesham/zenburn-terminal)|N/A|Zenburn theme for Terminal.
+[Zenburn for Xcode](https://github.com/ioveracker/Zenburn-for-Xcode)|N/A|Zenburn theme for Xcode
 
 ## Missing Something?
 Feel free to submit a pull request!
