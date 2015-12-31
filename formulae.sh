@@ -1,1 +1,1 @@
-brew install rbenv ruby-build
+brew install postgresql rbenv ruby-build

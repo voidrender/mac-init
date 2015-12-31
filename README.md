@@ -32,6 +32,7 @@ Run `formulae.sh` to install useful command-line utilities.
 
 Name|Command|Description
 ---|---|---
+postgresql|`brew install postgresql`|Command-line tools for interacting with postgresql databases.
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
 xctool|`brew install xctool`|
 
