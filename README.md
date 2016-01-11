@@ -53,6 +53,7 @@ Miscellaneous things that need to be installed manually.
 Name|Command|Description
 ---|---|---
 [alcatraz](http://alcatraz.io)|<code>curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh &#124; sh</code>|Package manager for Xcode plugins.
+[Prezto](https://github.com/sorin-ionescu/prezto)|Multiple steps--go [here](https://github.com/sorin-ionescu/prezto).|Instantly awesome zsh. ([Why use zsh?](http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692))
 [zenburn-terminal](https://github.com/bdesham/zenburn-terminal)|N/A|Zenburn theme for Terminal.
 [Zenburn for Xcode](https://github.com/ioveracker/Zenburn-for-Xcode)|N/A|Zenburn theme for Xcode
 
