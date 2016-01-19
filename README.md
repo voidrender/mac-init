@@ -34,6 +34,7 @@ Name|Command|Description
 ---|---|---
 postgresql|`brew install postgresql`|Command-line tools for interacting with postgresql databases.
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
+swiftlint|`brew install swiftlint`|Lint for Swift, enforces style and conventions.
 xctool|`brew install xctool`|
 
 ## Gems

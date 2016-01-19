@@ -1,1 +1,1 @@
-brew install postgresql rbenv ruby-build
+brew install postgresql rbenv ruby-build swiftlint xctool
