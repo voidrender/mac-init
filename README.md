@@ -32,6 +32,7 @@ Run `formulae.sh` to install useful command-line utilities.
 
 Name|Command|Description
 ---|---|---
+cloc|`brew install cloc`|A useful command-line utility for **c**ounting the **l**ines **o**f **c**ode in a directory.
 postgresql|`brew install postgresql`|Command-line tools for interacting with postgresql databases.
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
 swiftlint|`brew install swiftlint`|Lint for Swift, enforces style and conventions.
