@@ -9,19 +9,19 @@ Run `casks.sh` to install a bunch of useful apps, or pick them one at a time fro
 
 Name|Command|Description
 ---|---|---
-Android Studio|`brew cask install android-studio`|Sometimes you've gotta do Android stuff, and this is the best way to get the emulators running.
-Charles|`brew cask install charles`|The world's okayest proxy tool for debugging network traffic.
-Chrome|`brew cask install google-chrome`|Google's web browser. A nice quarantine for Google's products.
-Dropbox|`brew cask install dropbox`|Sync files across all of your devices.
-Flycut|`brew cask install flycut`|An amazing little clipboard manager.
-Gifrocket|`brew cask install gifrocket`|Fast gif creation. :rocket:
-GitKraken|`brew cask install gitkraken`|A delightful GUI for git.
-Karabiner Elements|`brew cask install karabiner-elements`|Remap keys and stuff. [Great for external keyboards](https://twitter.com/ioveracker/status/1050051898428948480).
-Ring|`brew cask install ring`|The Ring video doorbell Mac app.
-Spotify|`brew cask install spotify`|:notes::notes::notes:
-Steam|`brew cask install steam`|The Steam client for Mac. You can't code _all_ the time.
-Toggl|`brew cask install toggl`|A fantastic way to quantify the time you send on things. The app leaves much to be desired, but is good for small start/stop interactions. The website is much more powerful.
-VSCode|`brew cask install visual-studio-code`|Quickly becoming the best code editor around. My go-to when I'm not required to use Xcode.
+[Android Studio](https://developer.android.com/studio/)|`brew cask install android-studio`|Sometimes you've gotta do Android stuff, and this is the best way to get the emulators running.
+[Charles](https://www.charlesproxy.com)|`brew cask install charles`|The world's okayest proxy tool for debugging network traffic.
+[Chrome](https://www.google.com/chrome/)|`brew cask install google-chrome`|Google's web browser. A nice quarantine for Google's products.
+[Dropbox](https://www.google.com/chrome/)|`brew cask install dropbox`|Sync files across all of your devices.
+[Flycut](https://github.com/TermiT/Flycut)|`brew cask install flycut`|An amazing little clipboard manager.
+[Gifrocket](http://www.gifrocket.com)|`brew cask install gifrocket`|Fast gif creation. :rocket:
+[GitKraken](https://www.gitkraken.com)|`brew cask install gitkraken`|A delightful GUI for git.
+[Karabiner Elements](https://pqrs.org/osx/karabiner/)|`brew cask install karabiner-elements`|Remap keys and stuff. [Great for external keyboards](https://twitter.com/ioveracker/status/1050051898428948480).
+[Ring](https://ring.com)|`brew cask install ring`|The Ring video doorbell Mac app.
+[Spotify](http://spotify.com)|`brew cask install spotify`|:notes::notes::notes:
+[Steam](https://store.steampowered.com)|`brew cask install steam`|The Steam client for Mac. You can't code _all_ the time.
+[Toggl](https://toggl.com)|`brew cask install toggl`|A fantastic way to quantify the time you send on things. The app leaves much to be desired, but is good for small start/stop interactions. The website is much more powerful.
+[VSCode](https://code.visualstudio.com)|`brew cask install visual-studio-code`|Quickly becoming the best code editor around. My go-to when I'm not required to use Xcode.
 
 ## Formulae
 Run `formulae.sh` to install useful command-line utilities.
