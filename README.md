@@ -12,7 +12,7 @@ Name|Command|Description
 [Android Studio](https://developer.android.com/studio/)|`brew cask install android-studio`|Sometimes you've gotta do Android stuff, and this is the best way to get the emulators running.
 [Charles](https://www.charlesproxy.com)|`brew cask install charles`|The world's okayest proxy tool for debugging network traffic.
 [Chrome](https://www.google.com/chrome/)|`brew cask install google-chrome`|Google's web browser. A nice quarantine for Google's products.
-[Dropbox](https://www.google.com/chrome/)|`brew cask install dropbox`|Sync files across all of your devices.
+[Dropbox](https://www.dropbox.com/)|`brew cask install dropbox`|Sync files across all of your devices.
 [Flycut](https://github.com/TermiT/Flycut)|`brew cask install flycut`|An amazing little clipboard manager.
 [Gifrocket](http://www.gifrocket.com)|`brew cask install gifrocket`|Fast gif creation. :rocket:
 [GitKraken](https://www.gitkraken.com)|`brew cask install gitkraken`|A delightful GUI for git.
