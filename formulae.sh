@@ -1,1 +1,1 @@
-brew install cloc postgresql rbenv ruby-build swiftlint xctool
+brew install cloc heroku postgresql rbenv ruby-build redis

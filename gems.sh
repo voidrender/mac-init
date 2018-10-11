@@ -1,1 +1,1 @@
-gem install alcove bundler cocoapods fastlane xcpretty
+gem install bundler cocoapods fastlane xcpretty
