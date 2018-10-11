@@ -1,1 +1,1 @@
-brew cask install atom google-chrome dropbox evernote flux gifrocket google-drive simpholders skitch sourcetree spotify
+brew cask install android-studio charles google-chrome dropbox flycut gifrocket gitkraken karabiner-elements ring steam spotify visual-studio-code
