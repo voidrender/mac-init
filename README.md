@@ -4,13 +4,6 @@ A collection of random configuration scripts to help with setting up a new Mac. 
 ## _Prerequisites_
 [Homebrew](http://brew.sh/)
 
-## App Store
-Name|Description
----|---
-[Realm Studio](https://realm.io/products/realm-studio/)|A GUI for interacting with [Realm](https://realm.io) database files.
-[SimPholders](https://simpholders.com/3/)|Quick access to the apps installed in your iOS simulators. This used to be available on homebrew, but the latest version (v3) does not appear to be there, so it's best to get this from their website.
-[Sip](https://sipapp.io)|A better digital color meter.
-
 ## Casks
 Run `casks.sh` to install a bunch of useful apps, or pick them one at a time from the below table.
 
@@ -59,6 +52,9 @@ Miscellaneous things that need to be installed manually.
 Name|Command|Description
 ---|---|---
 [Prezto](https://github.com/sorin-ionescu/prezto)|Multiple steps--go [here](https://github.com/sorin-ionescu/prezto).|Instantly awesome zsh. ([Why use zsh?](http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692))
+[Realm Studio](https://realm.io/products/realm-studio/)|A GUI for interacting with [Realm](https://realm.io) database files.
+[SimPholders](https://simpholders.com/3/)|Quick access to the apps installed in your iOS simulators. This used to be available on homebrew, but the latest version (v3) does not appear to be there, so it's best to get this from their website.
+[Sip](https://sipapp.io)|A better digital color meter.
 [zenburn-terminal](https://github.com/bdesham/zenburn-terminal)|N/A|Zenburn theme for Terminal.
 [Zenburn for Xcode](https://github.com/ioveracker/Zenburn-for-Xcode)|N/A|Zenburn theme for Xcode
 
