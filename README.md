@@ -2,7 +2,7 @@
 A collection of random configuration scripts to help with setting up a new Mac. This is also a list of apps and tools that I like to use.
 
 ## _Prerequisites_
-The it needed is [Homebrew](http://brew.sh/),you can install the homebrew by coping and pasting the following command in terminal.
+[Homebrew](http://brew.sh/) is required to run these scripts. You can install Homebrew by copying and pasting the following command into your terminal.
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ## Casks
