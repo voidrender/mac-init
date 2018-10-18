@@ -1,1 +1,1 @@
-brew install cloc heroku postgresql rbenv ruby-build redis
+brew install cloc heroku postgresql rbenv ruby-build redis shellcheck telnet

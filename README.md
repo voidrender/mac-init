@@ -35,6 +35,7 @@ imagemagick|`brew install imagemagick`|Like the name says, this does magical stu
 postgresql|`brew install postgresql`|Command-line tools for interacting with postgresql databases.
 rbenv|`brew install rbenv ruby-build`|The best Ruby version manager.
 redis|`brew install redis`|https://redis.io
+shellcheck|`brew install shellcheck`|Lint your shell scripts.
 telnet|`brew install telnet`|Can you believe macOS doesn't come with telnet? What year is it?!
 
 ## Gems
